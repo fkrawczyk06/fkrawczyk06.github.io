@@ -1,5 +1,12 @@
-
-<style>
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Polityka prywatności</title>
+</head>
+<body>
+  <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
         }
@@ -54,3 +61,5 @@ word-break: break-word !important;
     </style>
       </div>
       
+</body>
+</html>
